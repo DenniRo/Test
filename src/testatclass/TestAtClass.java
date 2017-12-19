@@ -41,6 +41,8 @@ public class TestAtClass {
         
         contextCompresion.setCompresion(compresion2);
         contextCompresion.doCompress();
+        
+        System.out.println("YOYOY");
     }
     
 }
