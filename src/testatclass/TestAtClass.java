@@ -43,6 +43,8 @@ public class TestAtClass {
         contextCompresion.doCompress();
         
         System.out.println("YOYOY");
+        System.out.println("LOLOLO");
+                
     }
     
 }
